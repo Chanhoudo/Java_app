@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="spring-tool-suite-3.9.18.RELEASE-e4.21.0-win32-x86_64">
+        <property name="context-root" value="spring-tool-suite-3.9.18.RELEASE-e4.21.0-win32-x86_64"/>
+    </wb-module>
+</project-modules>

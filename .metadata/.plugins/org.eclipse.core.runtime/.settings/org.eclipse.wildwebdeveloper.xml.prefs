@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+org.eclipse.wildwebdeveloper.xml.catalogs=D\:\\eclipse\\.metadata\\.plugins\\org.eclipse.wildwebdeveloper.xml\\system-catalog.xml,
+org.eclipse.wildwebdeveloper.xml.codeLens.enabled=true
+org.eclipse.wildwebdeveloper.xml.validation.disallowDocTypeDecl=true
+org.eclipse.wildwebdeveloper.xml.validation.resolveExternalEntities=true
